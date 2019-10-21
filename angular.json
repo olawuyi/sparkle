@@ -28,7 +28,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/font-awesome.css",
+              "src/assets/css/slider.css",
+              "src/assets/css/style.css"
+
             ],
             "scripts": []
           },
